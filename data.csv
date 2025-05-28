@@ -1,0 +1,83 @@
+name ,State ,bp or mp,soot,Sulfur,Nitrogen,Isocyanate ,Chlorine,Bromine,Iodine,Alcohol (CAN test),Alcohol/Aldehyde (Jones),Tertiary Alcohol (Lucas) ,Carbonyl Group,Carboxylic Acid,Phenol,Carbohydrate,Unsaturation (C=C or C≡C),Anhydride
+Trifluoroethanoic anhydride,Liquid,39,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Ethanoic anhydride,Liquid,140,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Propanoic anhydride,Liquid,168,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Methylpropanoic anhydride,Liquid,182,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"2,2-Dimethylpropanoicanhydride",Liquid,190,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Z-Butenedioic anhydride ,Liquid,198,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Methyl Z-butenedioic anhydride,Liquid,214,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Methylbutanoic anhydride ,Liquid,215,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Dichloroethanoic anhydride,Liquid,216,no,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes
+Pentanoic anhydride ,Liquid,218,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"2-Ethylbutanoic anhydride 
+E-2-Butenoic anhydride ",Liquid,229,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+(± )-Methylbutanedioic anhydride ,Liquid,248,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Hexanoic anhydride ,Liquid,257,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Heptanoic anhydride  ,Liquid,258,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Methylpentanedioic anhydride,Liquid,275,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"Cyclohexanecarboxylic 
+anhydride",Liquid,283,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Octanoic anhydride ,Liquid,285,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"4-Methyl-1,2-benzenedicarboxylic  (dO
+acid anhydride ",Liquid,295,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"Z-1,3-Cyclohexanedicarboxylic 
+acid anhydride ",Liquid,304,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+(~)- Methylbutanedioic anhydride ,Solids,37,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Undecanoic anhydride,Solids,37,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Methylbenzoic anhydride,Solids,39,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Methylpentanedioic anhydride ,Solids,41,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Bromoethanoic anhydride ,Solids,42,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Dodecanoic anhydride,Solids,42,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Benzoic anhydride,Solids,42,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"E-2,3-Dimethylbutanedioic anhydride ",Solids,43,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Iodoethanoic anhydride,Solids,46,no,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes
+Chloroethanoic anhydride,Solids,46,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+( )-Phenylbutanedioic anhydride,Solids,54,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Tetradecanoic anhydride,Solids,54,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Pentanedioic anhydride ,Solids,56,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Z-Butenedioic anhydride ,Solids,56,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Hexadecanoic anhydride,Solids,64,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Octanedioic anhydride ,Solids,65,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Bromo-2-methylpropanoic anhydride ,Solids,65,no,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+Heptadecanoic anhydride,Solids,67,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Methylenebutanedioic anhydride ,Solids,68,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Decanedioic anhydride,Solids,68,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Octadecanoic anhydride,Solids,70,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Methylbenzoic anhydride ,Solids,71,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Phenylethanoic anhydride,Solids,72,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Bromobenzoic anhydride ,Solids,76,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+2-Chlorobenzoic anhydride,Solids,79,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes
+cis-a-Methylglutaconic anhydride ,Solids,85,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"Z-2,3-Dimethylbutanedioic anhydride ",Solids,87,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"4-Methyl-1,2-benzenedicarboxylic anhydride",Solids,92,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Chlorobenzoic anhydride ,Solids,95,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes
+4-Methylbenzoic anhydride ,Solids,95,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Diphenylethanoic anhydride,Solids,98,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+4-Methoxybenzoic anhydride ,Solids,99,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Phenylpentanedioic anhydride,Solids,105,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+4-Ethoxybenzoic anhydride,Solids,108,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"3,5-Dinitrobenzoic anhydride",Solids,109,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"4-Nitro-l,2-benzenedicarboxylic anhydride ",Solids,119,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+Butanedioic anhydride,Solids,120,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Pyridinecarboxylic anhydride,Solids,123,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"1,2-Benzenedicarboxylic anhydride",Solids,132,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Iodobenzoic anhydride,Solids,134,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes
+2-Naphthoic anhydride ,Solids,135,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Nitrobenzoic anhydride ,Solids,135,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+E-3-Phenyl-2-propenoic anhydride ,Solids,136,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+E-(:!: )-CycIohexanecarboxylic acid anhydride ,Solids,140,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+2-Carboxyphenylethanoic anhydride,Solids,141,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+1-Naphthoic anhydride,Solids,146,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Bromobenzoic anhydride,Solids,149,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+"2,4-Dinitrobenzoic anhydride ",Solids,160,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+3-Nitrobenzoic anhydride,Solids,160,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"3-Nitro-l,2-benzenedicarboxylic anhydride",Solids,162,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"1,2-Naphthalic anhydride",Solids,169,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+4-Nitrobenwic anhydride ,Solids,189,yes,no,yes,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+4-Chlorobenzoic anhydride ,Solids,194,yes,no,no,no,yes,no,no,no,no,no,yes,no,no,no,no,yes
+/3-phenylglutaconic anhydride ,Solids,206,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+"2,2'-Biphenyldicarboxylic acid anhydride ",Solids,217,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+4-Bromobenzoic anhydride ,Solids,218,yes,no,no,no,no,yes,no,no,no,no,yes,no,no,no,no,yes
+"(+ )-1,2,2-Trimethylcyclopentane1,3-dicarboxylic acid anhydride ",Solids,221,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
+4-Iodobenwic anhydride ,Solids,228,yes,no,no,no,no,no,yes,no,no,no,yes,no,no,no,no,yes
+"1,8-Naphthalenedicarboxylic anhydride",Solids,274,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,yes
